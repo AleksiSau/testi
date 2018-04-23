@@ -6,7 +6,6 @@
 2. automatic number list
 3. automatic number list
 
-[Link name] ("www.google.com")
 ![alt text][logo]
 
-[logo]: https://tse3.mm.bing.net/th?id=OIP.mLEZhFzx1Q4TrC6dbpSGyAHaI9&w=184&h=207&c=7&o=5&pid=1.7
+[logo]: http://www.reactiongifs.com/lol/lolololol.gif
